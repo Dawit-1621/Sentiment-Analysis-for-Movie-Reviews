@@ -1,8 +1,8 @@
 # Settlement Analysis for Movie Reviews
 ## Installation
 #### Importing Libraries
-numpy
-pandas
-matplotlib
-sklearn
+* numpy
+* pandas
+* matplotlib
+* sklearn
 ## Instructions:
