@@ -1,4 +1,4 @@
-# Settlement Analysis for Movie Reviews
+# Sentiment Analysis for Movie Reviews
 ## Installation
 #### Importing Libraries
 * numpy
