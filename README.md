@@ -8,7 +8,7 @@
 * CountVectorizer
 * TfidfVectorizer
 
-### Introduction
+### Introduction To Sentiment Analysis
 Sentiment analysis (or opinion mining) is a natural language processing technique used to determine whether data is positive, negative or neutral. Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs.
 #### Dataset
 The Rotten Tomatoes movie review dataset is a corpus of movie reviews used for sentiment analysis, originally collected by Pang and Lee.
