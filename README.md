@@ -18,6 +18,7 @@ The dataset that can be downloaded from this Kaggle link (https://www.kaggle.com
 Total number of records are: 50,000.<br>
 Number of Positive Sentiment:  25000 <br>
 Number of Negative Sentiment:  25000
+
 ### Model development
 * Text Classification with Simple Neural Network
 * Text Classification with Recurrent Neural Network (LSTM)
