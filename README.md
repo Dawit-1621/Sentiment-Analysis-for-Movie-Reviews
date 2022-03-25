@@ -23,4 +23,3 @@ Number of Negative Sentiment:  25000
 ### Model development
 * Text Classification with Simple Neural Network
 * Text Classification with Recurrent Neural Network (LSTM)
-* 
